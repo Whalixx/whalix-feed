@@ -13,8 +13,8 @@
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
     "date": "2026-11-19",
-    "london": "Gold 3,739.62 shelf se reject hokar 3,727 par drift — koi A-grade entry nahi; London ki manipulation leg pehle 3,689.60 ya 3,752.54 ko sweep karegi, us ke baad reaction par setup arms hoga. BTC 62,006 pool se sirf 57 pts door ruka — pehla draw abhi bhi neeche hai.",
-    "ny": "Philly Fed + Claims 18:30 PKT (Medium) — NY window mein halka danger; gold ka sweep-reaction (3,689.60 long ya 3,752.54 short) aur BTC 62,006 ka faisla NY mein hoga."
+    "london": "London ki manipulation leg kabhi aayi hi nahi — gold 3,705–3,735 drift mein raha, na 3,689.60 sweep hua na 3,752.54. BTC up-push 64,080.80 tak gaya, 62,006 pool abhi bhi untaken. EUR/USD CISD 1.0985 toota aur 1.10132 tak gaya (TP1 ~3 pips se miss); GBP/USD ne 1.3151 reclaim karke 1.31728 tak gaya phir poora retrace.",
+    "ny": "Philly Fed + Claims 18:30 PKT (Medium) — us ke aas-paas koi naya entry nahi, sirf post-news reaction. Gold ka pehla draw abhi bhi neeche hai (3,689.60 sweep + displacement up = long arms; 3,738.63–3,752.54 shelf rejection = short arms). BTC 62,006 ka faisla baqi hai. Aaj ZERO signals — koi A-grade setup nahi mila."
   },
   "scoreboard": {
     "losses": 1,
@@ -83,5 +83,5 @@
       "valid_until": "2026-11-18T22:30:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-19 11:45"
+  "updated_pkt": "2026-11-19 18:15"
 }
