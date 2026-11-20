@@ -14,7 +14,7 @@
   "outlook": {
     "date": "2026-11-20",
     "london": "Gold raat ko 3,689.60 ke neeche acceptance ke baad 3,512.73 tak crash kar gaya — ab freefall zone mein hai, neeche koi named pool nahi; bounce 3,630–3,660 FVG mein rejection = short arms, 3,512.73 sweep + displacement up = long arms. BTC 62,006 sweep ke baad bounce reclaim mein nakam, price 61,743. GBP Retail Sales 12:00 PKT (Medium) + Lagarde 13:15 PKT (Medium) — window mein koi red-folder event nahi. Aaj ZERO signals — koi A-grade setup nahi mila.",
-    "ny": "UoM Consumer Sentiment 20:00 PKT (Medium, USD) — us ke aas-paas koi naya entry nahi. Gold ka pehla draw abhi bhi neeche hai; FVG short sirf confirmation ke saath, 3,512.73 sweep-long watcher par armed hai. BTC 61,290.58 / 62,639.52 ka faisla baqi hai."
+    "ny": "NY 18:15 PKT: ZERO signals — chautha lagatar zero run. Gold crash ke baad 3,562-3,577 mein consolidate, FVG short 3,630-3,660 tak pohanchi hi nahi, 3,512.73 sweep nahi hua. BTC ne 61,290.58 sweep kiya (low 61,230) lekin bounce kamzor aur 62,006 reclaim missing — long arm nahi hua. EUR/USD 1.0985 ke upar pin hai lekin R:R 0.57. UoM Sentiment 20:00 PKT (Medium) — us ke aas-paas koi entry nahi. Watcher par armed: gold 3,630 / 3,512.73 / 3,593.70, BTC 62,006 reclaim / 61,230 / 62,639.52."
   },
   "scoreboard": {
     "losses": 1,
@@ -83,5 +83,5 @@
       "valid_until": "2026-11-18T22:30:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-20 11:45"
+  "updated_pkt": "2026-11-20 18:15"
 }
