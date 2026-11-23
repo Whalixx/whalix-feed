@@ -14,7 +14,7 @@
   "outlook": {
     "date": "2026-11-23",
     "london": "London ne asal mein kya kiya: gold FVG edge 3,630.00 touch kar ke reject hua (12:15 PKT) — displacement down 3,594.41 tak; planned entry 3,645 kabhi nahi aya, aur rejection window 12:30 PKT par thi jab koi run/wake nahi tha (watcher exact-touch 3,630.00 par fire nahi hua — process gap). ETH ne 1,711.08 sweep kar ke 1,752.38 (TP1) chhua — subah 08:00 PKT, run se pehle. EUR/USD 1.0985 hold fail kar ke 1.0936 tak gira; GBP/USD 1.3080 sweep kar ke neeche accept hua. Aaj abhi tak ZERO signals.",
-    "ny": "NY 18:15 PKT: gold 3,605–3,619 chop mein — FVG dobara test (3,630–3,660) + rejection = short arms; 3,594.41 sweep + displacement up = long scalp. US Flash PMIs 19:45 PKT (Medium) — us ke aas-paas koi naya entry nahi. SOL 72.26 break + hold hua lekin POI/displacement nahi — pullback retest par long arms. Watcher par armed: gold 3,630 / 3,660 / 3,594.41, BTC 62,006 / 60,386, ETH 1,711.08 retest, SOL 72.26 retest, EUR/USD 1.0985 retest-short."
+    "ny": "Watcher 19:30 PKT: BTC pending long CANCELLED — TP1 64,080.80 print ho gaya (19:15 15m H 64,625.98) entry 62,639.52 aane se pehle; thesis void, never filled. Gold ne 15m close 3,660 ke upar diya (19:00 C 3,667.8, 19:15 H 3,687.6) — FVG short idea DEAD (bias-shift), chase nahi. US Flash PMIs 19:45 PKT aage hain — print ka wait."
   },
   "scoreboard": {
     "losses": 1,
@@ -81,7 +81,26 @@
       "tp1": 3835.2,
       "tp2": 3862,
       "valid_until": "2026-11-18T22:30:00+05:00"
+    },
+    {
+      "direction": "LONG",
+      "entry": 62639.52,
+      "id": "sig-2026-11-23-btc-long-reclaim",
+      "invalidation": "15m body close below 62,006 (reclaim fails) — pre-fill; post-fill SL 61,900 governs",
+      "invalidation_level": 62006,
+      "issued_pkt": "2026-11-23 19:01",
+      "narrative": "BTC ne 62,006 reclaim kar liya — 18:45 PKT 15m candle O 61,296.09 -> C 63,877.90 (H 63,882.74), bari bullish displacement, phir 19:00 candle ~63,400 par hold. Plan ki asal TP1 (62,639.52) usi candle mein cross ho gayi, is liye market long chase hota (R:R ~0.49) — entry sirf 62,639.52 ke retest par hai (20 Nov high, broken supply ab support). SL 62,006 pool ke neeche. Counter-trend scalp hai — HTF abhi bhi bearish staircase hai. US Flash PMIs 19:45 PKT: limit PMI volatility mein fill ho sakti hai, size chhoti rakho. 15m body close 62,006 ke neeche = reclaim fail, idea dead. Fill na hua to 02:00 PKT par expires.",
+      "pair": "BTC/USDT",
+      "rr_tp1": 1.95,
+      "session": "New York — pending pullback",
+      "sl": 61900,
+      "status": "closed",
+      "status_note": "Cancelled by Whalix AI — TP1 64,080.80 printed before entry (19:15 PKT 15m high 64,625.98; price ~64,282) while the 62,639.52 retest never came (post-issue low 62,840.43) — thesis void per Magnet-First Rule. Never filled — not a trade, not a loss.",
+      "strength": 68,
+      "tp1": 64080.8,
+      "tp2": 65447,
+      "valid_until": "2026-11-24T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-23 18:15"
+  "updated_pkt": "2026-11-23 19:30"
 }
