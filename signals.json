@@ -13,8 +13,8 @@
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
     "date": "2026-11-23",
-    "london": "Gold weekend bounce 3,490.91 se 3,623.63 tak — ab 3,619.55 test kar raha hai, FVG 3,630–3,660 sirf ~12 pts door; zone mein entry + 15m rejection/displacement down = short arms (blind limit nahi). BTC 62,006 reclaim se ~46 pts door raha (high 61,959.93) — reclaim + hold = long arms. EUR/GBP Flash PMIs 13:15–14:30 PKT (Medium) window ke andar — EUR/GBP pairs mein ehtiyaat. Aaj abhi tak ZERO signals — koi A-grade setup poora nahi hua.",
-    "ny": "NY 18:15 PKT: gold FVG 3,630–3,660 rejection ya 3,660 ke upar close = bias-shift read; BTC 62,006 reclaim ya 61,959.93 rejection = direction. US Flash PMIs 19:45 PKT (Medium, USD) — us ke aas-paas koi naya entry nahi. Watcher par armed: gold 3,630 / 3,619.55 / 3,512.73, BTC 62,006 / 61,959.93 / 60,386."
+    "london": "London ne asal mein kya kiya: gold FVG edge 3,630.00 touch kar ke reject hua (12:15 PKT) — displacement down 3,594.41 tak; planned entry 3,645 kabhi nahi aya, aur rejection window 12:30 PKT par thi jab koi run/wake nahi tha (watcher exact-touch 3,630.00 par fire nahi hua — process gap). ETH ne 1,711.08 sweep kar ke 1,752.38 (TP1) chhua — subah 08:00 PKT, run se pehle. EUR/USD 1.0985 hold fail kar ke 1.0936 tak gira; GBP/USD 1.3080 sweep kar ke neeche accept hua. Aaj abhi tak ZERO signals.",
+    "ny": "NY 18:15 PKT: gold 3,605–3,619 chop mein — FVG dobara test (3,630–3,660) + rejection = short arms; 3,594.41 sweep + displacement up = long scalp. US Flash PMIs 19:45 PKT (Medium) — us ke aas-paas koi naya entry nahi. SOL 72.26 break + hold hua lekin POI/displacement nahi — pullback retest par long arms. Watcher par armed: gold 3,630 / 3,660 / 3,594.41, BTC 62,006 / 60,386, ETH 1,711.08 retest, SOL 72.26 retest, EUR/USD 1.0985 retest-short."
   },
   "scoreboard": {
     "losses": 1,
@@ -83,5 +83,5 @@
       "valid_until": "2026-11-18T22:30:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-23 11:45"
+  "updated_pkt": "2026-11-23 18:15"
 }
