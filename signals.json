@@ -14,7 +14,7 @@
   "outlook": {
     "date": "2026-11-24",
     "london": "Raat ka vertical move poora retrace ho gaya — BTC 64,603 se 59,455 tak, gold 3,681.55 se 3,606 tak wapas. London mein koi A-grade trigger nahi — gold 3,660-3,670 resistance retest ya 3,600.49 sweep ka wait; BTC 61,120 rejection ya 59,455.31 sweep ka wait. Aaj abhi tak ZERO signals.",
-    "ny": "NY mein US CB Consumer Confidence 20:00 PKT (Medium) + BOC Macklem 22:25 PKT (CAD, Medium) — print ke aas-paas koi naya entry nahi. Kal 25 Nov 18:30 PKT Core PCE + Prelim GDP (USD, High) — aaj ki koi bhi signal us se pehle expire hoti hai (valid_until 02:00 PKT)."
+    "ny": "NY: gold 3,639.27 se reject ho kar 3,626 par — shelf-rejection short abhi A-grade nahi (koi CISD nahi, CB Confidence 20:00 PKT print ke andar hai); GBP/USD ne 1.3080 reclaim kar liya lekin retest ka wait hai; BTC 59,455 sweep ka displacement fail ho gaya. Aaj ZERO signals — 8th lagatar zero-signal run. Kal 25 Nov 18:30 PKT Core PCE + GDP (High) — aaj ki koi signal us se pehle expire hoti."
   },
   "scoreboard": {
     "losses": 1,
@@ -102,5 +102,5 @@
       "valid_until": "2026-11-24T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-24 11:45"
+  "updated_pkt": "2026-11-24 18:15"
 }
