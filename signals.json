@@ -12,9 +12,9 @@
   },
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
-    "date": "2026-11-23",
-    "london": "London ne asal mein kya kiya: gold FVG edge 3,630.00 touch kar ke reject hua (12:15 PKT) — displacement down 3,594.41 tak; planned entry 3,645 kabhi nahi aya, aur rejection window 12:30 PKT par thi jab koi run/wake nahi tha (watcher exact-touch 3,630.00 par fire nahi hua — process gap). ETH ne 1,711.08 sweep kar ke 1,752.38 (TP1) chhua — subah 08:00 PKT, run se pehle. EUR/USD 1.0985 hold fail kar ke 1.0936 tak gira; GBP/USD 1.3080 sweep kar ke neeche accept hua. Aaj abhi tak ZERO signals.",
-    "ny": "Watcher 19:30 PKT: BTC pending long CANCELLED — TP1 64,080.80 print ho gaya (19:15 15m H 64,625.98) entry 62,639.52 aane se pehle; thesis void, never filled. Gold ne 15m close 3,660 ke upar diya (19:00 C 3,667.8, 19:15 H 3,687.6) — FVG short idea DEAD (bias-shift), chase nahi. US Flash PMIs 19:45 PKT aage hain — print ka wait."
+    "date": "2026-11-24",
+    "london": "Raat ka vertical move poora retrace ho gaya — BTC 64,603 se 59,455 tak, gold 3,681.55 se 3,606 tak wapas. London mein koi A-grade trigger nahi — gold 3,660-3,670 resistance retest ya 3,600.49 sweep ka wait; BTC 61,120 rejection ya 59,455.31 sweep ka wait. Aaj abhi tak ZERO signals.",
+    "ny": "NY mein US CB Consumer Confidence 20:00 PKT (Medium) + BOC Macklem 22:25 PKT (CAD, Medium) — print ke aas-paas koi naya entry nahi. Kal 25 Nov 18:30 PKT Core PCE + Prelim GDP (USD, High) — aaj ki koi bhi signal us se pehle expire hoti hai (valid_until 02:00 PKT)."
   },
   "scoreboard": {
     "losses": 1,
@@ -102,5 +102,5 @@
       "valid_until": "2026-11-24T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-23 19:30"
+  "updated_pkt": "2026-11-24 11:45"
 }
