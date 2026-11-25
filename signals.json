@@ -13,8 +13,8 @@
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
     "date": "2026-11-25",
-    "london": "Gold 3,512.73 (Fri low) ke bilkul qareeb hai — aaj ka low 3,513.00, sweep sirf 0.27 short — sweep + displacement up aye to long scalp, warna 3,490.91 ki taraf draw. GBP/USD 1.3080 retest chal raha hai (price 1.30779), EUR/USD 1.0936 retest par — dono par displacement up ka wait. London window mein koi red-folder event nahi. Aaj abhi tak ZERO signals — 9th lagatar zero-signal run.",
-    "ny": "NY 18:30 PKT: Core PCE + Prelim GDP (USD, High) — print se pehle koi naya entry nahi; NY run 18:15 PKT print se sirf 15 min pehle hai. Gold ke triggers: 3,584.45 retest-short ya 3,512.73/3,490.91 sweep-long. SOL 68.74 sweep ka bounce poora retrace — setup dead, agla magnet 67.15."
+    "london": "London mein gold ne 3,512.73 sweep kiya (11:00 1H low 3,510.34, close wapas andar) aur dopahar 3,490.91 bhi sweep hua (PAXG low 3,480.32) — 17:00 1H displacement up aya (bounce 3,523.76), phir pullback 3,505.37 tak. BTC 58,753.53 aur ETH 1,648.35 dono sweep hue lekin bounce poora retrace — continuation down. GBP/USD 1.3080 retest fail — price neeche drift. London mein ZERO signals.",
+    "ny": "NY 18:30 PKT: Core PCE + Prelim GDP (USD, High) — print se pehle koi entry nahi. Gold ne 3,490.91 sweep karke 17:00 1H displacement up diya (bounce 3,523.76) — post-print pullback ~3,502 par fresh displacement aye to long scalp arms (SL 3,478, TP1 3,542.78); 3,480.32 ke neeche acceptance = fresh lows. BTC/ETH sweep-bounce fail — continuation down; agle magnets BTC 57,778.35, ETH 1,623.09, SOL 67.15 (0.14 door). GBP/USD 1.3080 retest FAIL — neeche drift. Aaj abhi tak ZERO signals — 10th lagatar zero-signal run."
   },
   "scoreboard": {
     "losses": 1,
@@ -102,5 +102,5 @@
       "valid_until": "2026-11-24T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-25 11:45"
+  "updated_pkt": "2026-11-25 18:15"
 }
