@@ -12,9 +12,9 @@
   },
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
-    "date": "2026-11-25",
-    "london": "London mein gold ne 3,512.73 sweep kiya (11:00 1H low 3,510.34, close wapas andar) aur dopahar 3,490.91 bhi sweep hua (PAXG low 3,480.32) — 17:00 1H displacement up aya (bounce 3,523.76), phir pullback 3,505.37 tak. BTC 58,753.53 aur ETH 1,648.35 dono sweep hue lekin bounce poora retrace — continuation down. GBP/USD 1.3080 retest fail — price neeche drift. London mein ZERO signals.",
-    "ny": "NY 18:30 PKT: Core PCE + Prelim GDP (USD, High) — print se pehle koi entry nahi. Gold ne 3,490.91 sweep karke 17:00 1H displacement up diya (bounce 3,523.76) — post-print pullback ~3,502 par fresh displacement aye to long scalp arms (SL 3,478, TP1 3,542.78); 3,480.32 ke neeche acceptance = fresh lows. BTC/ETH sweep-bounce fail — continuation down; agle magnets BTC 57,778.35, ETH 1,623.09, SOL 67.15 (0.14 door). GBP/USD 1.3080 retest FAIL — neeche drift. Aaj abhi tak ZERO signals — 10th lagatar zero-signal run."
+    "date": "2026-11-26",
+    "london": "London: raat bhar V-reversal — gold ne 3,425.17 sweep karke 3,603.06 tak bounce kiya (25 Nov daily bullish reversal candle), ab pullback 3,560.83. BTC 57,300.38 sweep se 61,622.38, ETH 1,608.86 se 1,730, SOL 65.84 se 71.95 — saare moves raat mein guzar gaye, watcher ne ek wake nahi bheja. Sab markets mid-range pullback mein, koi fresh displacement nahi — London mein ZERO signals. Gold pullback 3,535-3,543 + displacement up = long arms; 3,584.45/3,600.49 retest + rejection = short arms.",
+    "ny": "NY: US Thanksgiving — US markets band, thin liquidity, koi High USD event nahi. Tokyo Core CPI 18:30 PKT (JPY, Medium) — USD/JPY par ehtiyaat. Gold 3,542.78 hold kare to reversal ki legs hain, tootne par HTF bearish wapas. Aaj abhi tak ZERO signals — 11th lagatar zero-signal scheduled run."
   },
   "scoreboard": {
     "losses": 1,
@@ -102,5 +102,5 @@
       "valid_until": "2026-11-24T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-25 18:15"
+  "updated_pkt": "2026-11-26 11:45"
 }
