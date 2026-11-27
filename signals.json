@@ -13,8 +13,8 @@
   "feed": "Whalix AI — Signals by Whalix AI (discretionary ICT + Fractal analysis)",
   "outlook": {
     "date": "2026-11-27",
-    "london": "London: raat/Asian mein bara breakout — gold 3,552 se 3,657.40 (3,584.45, 3,600.49, 3,619.55/3,626.28 sab toot gaye, 4H closes upar = bias-shift up ki taraf), BTC 62,025 poke (62,006 reclaim hold nahi hua), ETH 1,755.22 poke, SOL 73.51 poke, AUD 0.6659 reclaim. Sab markets Asian highs se halka pullback mein, koi taaza displacement nahi — London mein ZERO signals. Gold pullback 3,626.28/3,619.55 + displacement up = long arms; Asian high 3,657.40 sweep + rejection = short arms. Watcher ne phir koi wake nahi bheja — 6th din, ~10 level hits.",
-    "ny": "NY: aaj US Black Friday — US markets early close (23:00 PKT), thin liquidity ka khatra. Aaj koi High USD event nahi (sirf Low: Goods Trade Balance 18:30 PKT). London killzone ka faisla dekhna: gold 3,626.28 hold hua to long continuation, 3,619.55 ke neeche acceptance = reclaim fail, bias-shift cancel."
+    "london": "London: gold Asian high 3,657.40 sweep karke 3,673.00 gaya, phir 3,660-3,670 shelf do dafa reject hui; BTC 62,248.91 poke karke 1H close 61,729.65 (62,006 reclaim fail), ETH 1,755.22 poke, SOL 73.93 poke — sab highs reject hoke neeche drift kar rahe hain.",
+    "ny": "NY: GOLD SHORT pending issue hua (entry 3,657 retest, SL 3,674.50, TP1 3,626.28, TP2 3,619.55, R:R 1.76, strength 72) — sweep + rejection + 18:00 15m displacement down confirm hua; agar 3,626.28 pehle print hua to idea void, cancel. US Black Friday — early close 23:00 PKT, thin liquidity; NY open Judas swing 3,673-3,681.55 ka khatra."
   },
   "scoreboard": {
     "losses": 1,
@@ -100,7 +100,25 @@
       "tp1": 64080.8,
       "tp2": 65447,
       "valid_until": "2026-11-24T02:00:00+05:00"
+    },
+    {
+      "direction": "SHORT",
+      "entry": 3657,
+      "id": "sig-2026-11-27-gold-short-ny",
+      "invalidation": "15m/1H body close above 3,674.50 (new day high) kills the idea. If 3,626.28 prints before the 3,657 retest, TP1 is already taken and the idea is void — cancel.",
+      "invalidation_level": 3674.5,
+      "issued_pkt": "2026-11-27 18:20",
+      "narrative": "Gold ne Asian high 3,657.40 sweep karke 3,673.00 tak push kiya, phir 3,660-3,670 shelf do dafa reject hui (1H closes 3,662.20, 3,667.93, 3,663.38) aur 18:00 15m ne 3,648.56 par close karke neeche displacement di — ab price 3,635.59 hai aur pehla draw 3,626.28/3,619.55 ki taraf hai. Short sirf 3,657 ke retest par hai; TP1 pehla reclaimed support hai. NY open ka Judas swing 3,673-3,681.55 tak sweep kar sakta hai — SL day high ke upar hai. Black Friday thin liquidity (US early close 23:00 PKT) — size chhoti rakho.",
+      "pair": "GOLD (XAU/USD)",
+      "rr_tp1": 1.76,
+      "session": "New York",
+      "sl": 3674.5,
+      "status": "pending",
+      "strength": 72,
+      "tp1": 3626.28,
+      "tp2": 3619.55,
+      "valid_until": "2026-11-28T02:00:00+05:00"
     }
   ],
-  "updated_pkt": "2026-11-27 11:45"
+  "updated_pkt": "2026-11-27 18:20"
 }
