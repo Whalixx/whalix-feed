@@ -14,7 +14,7 @@
   "outlook": {
     "date": "2026-11-27",
     "london": "London: gold Asian high 3,657.40 sweep karke 3,673.00 gaya, phir 3,660-3,670 shelf do dafa reject hui; BTC 62,248.91 poke karke 1H close 61,729.65 (62,006 reclaim fail), ETH 1,755.22 poke, SOL 73.93 poke — sab highs reject hoke neeche drift kar rahe hain.",
-    "ny": "NY: GOLD SHORT pending issue hua (entry 3,657 retest, SL 3,674.50, TP1 3,626.28, TP2 3,619.55, R:R 1.76, strength 72) — sweep + rejection + 18:00 15m displacement down confirm hua; agar 3,626.28 pehle print hua to idea void, cancel. US Black Friday — early close 23:00 PKT, thin liquidity; NY open Judas swing 3,673-3,681.55 ka khatra."
+    "ny": "NY: GOLD SHORT pending CANCELLED 20:04 PKT — TP1 3,626.28 pehle print hua (19:00 15m C 3,625.00), 3,657 retest nahi aya; idea void. Gold 3,619.55 sweep hua (L 3,614.68) lekin displacement up nahi — long bhi nahi. BTC/ETH/SOL supports displacement down ke saath toot gaye (BTC 59,064, ETH 1,642, SOL 70.60) — koi long nahi. US Black Friday early close 23:00 PKT, thin liquidity."
   },
   "scoreboard": {
     "losses": 1,
@@ -113,12 +113,13 @@
       "rr_tp1": 1.76,
       "session": "New York",
       "sl": 3674.5,
-      "status": "pending",
+      "status": "closed",
       "strength": 72,
       "tp1": 3626.28,
       "tp2": 3619.55,
-      "valid_until": "2026-11-28T02:00:00+05:00"
+      "valid_until": "2026-11-28T02:00:00+05:00",
+      "status_note": "Cancelled by Whalix AI — TP1 3,626.28 printed before entry (19:00 15m close 3,625.00, 20:04 PKT) while the 3,657 retest never came (post-issue high 3,649.48) — thesis void per Magnet-First Rule. Never filled — not a trade, not a loss."
     }
   ],
-  "updated_pkt": "2026-11-27 18:20"
+  "updated_pkt": "2026-11-27 20:04"
 }
